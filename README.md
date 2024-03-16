@@ -14,6 +14,10 @@ A repository that contains relevant papers in Machine Learning
 
 1. Search
     1. Retrieval
+        - Dense Retrieval: 
+            - [BERT Google](https://arxiv.org/abs/1810.04805)
+            - [E5 Microsoft (Text Embeddings by Weakly-Supervised
+Contrastive Pre-training)](https://arxiv.org/pdf/2212.03533.pdf)
     2. Ranking
 
 2. Recommendation System
